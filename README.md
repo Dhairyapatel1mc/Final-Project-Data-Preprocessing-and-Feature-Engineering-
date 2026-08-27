@@ -693,41 +693,21 @@ By completing this project, you'll:
   - Results & metrics
   - Recommendations
 
-- [ ] **GitHub Repository**
-  ```
+## 📂 Project Structure
+
+```text
 Credit-Risk-Preprocessing-Project/
 │
-├── 📂 charts/
-│   └── 📊 EDA & Analysis Charts
-│
+├── 📂 charts/                         # Analysis & visualization charts
 ├── 📓 Credit_Risk_Preprocessing_Project.ipynb
-│   └── Complete Data Preprocessing & Analysis Notebook
-│
-├── 📄 README.md
-│   └── Project Documentation
-│
-├── 📕 Theory_Concepts_Reference.pdf
-│   └── Data Preprocessing & Credit Risk Theory
-│
-├── 📊 credit_risk_main.csv
-│   └── Main Credit Risk Dataset
-│
-├── 🧾 customer_metadata.json
-│   └── Customer Information / Metadata
-│
-├── 🌐 economic_indicators_api.json
-│   └── Economic Indicators API Data
-│
-├── 📊 final_processed_dataset.csv
-│   └── Final Cleaned & Processed Dataset
-│
-├── 🗄️ loan_repayment_sql.csv
-│   └── Loan Repayment / SQL Data
-│
-└── 🎥 video/
-    └── Project Demonstration Video
-
----
+├── 📄 README.md                       # Project documentation
+├── 📕 Theory_Concepts_Reference.pdf   # Theory reference
+├── 📊 credit_risk_main.csv            # Main raw dataset
+├── 🧾 customer_metadata.json          # Customer metadata
+├── 🌐 economic_indicators_api.json    # Economic indicators data
+├── 📊 final_processed_dataset.csv     # Final processed dataset
+├── 🗄️ loan_repayment_sql.csv          # Loan repayment data
+└── 🎥 video/                          # Project demonstration
 
 ## 💡 Pro Tips from 5+ Years Experience
 
