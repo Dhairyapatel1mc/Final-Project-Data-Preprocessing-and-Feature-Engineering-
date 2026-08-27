@@ -1,0 +1,90 @@
+{
+  "source": "DummyEconomicAPI/v1",
+  "timestamp": "2026-08-26T11:22:41.351729",
+  "indicators": [
+    {
+      "month": "2024-01",
+      "repo_rate": 6.96,
+      "inflation_rate": 4.81,
+      "unemployment_rate": 7.25,
+      "gdp_growth": 6.32
+    },
+    {
+      "month": "2024-02",
+      "repo_rate": 6.62,
+      "inflation_rate": 5.99,
+      "unemployment_rate": 6.92,
+      "gdp_growth": 6.16
+    },
+    {
+      "month": "2024-03",
+      "repo_rate": 6.9,
+      "inflation_rate": 4.48,
+      "unemployment_rate": 8.29,
+      "gdp_growth": 6.29
+    },
+    {
+      "month": "2024-04",
+      "repo_rate": 6.48,
+      "inflation_rate": 5.6,
+      "unemployment_rate": 6.63,
+      "gdp_growth": 6.15
+    },
+    {
+      "month": "2024-05",
+      "repo_rate": 6.53,
+      "inflation_rate": 4.54,
+      "unemployment_rate": 7.87,
+      "gdp_growth": 5.99
+    },
+    {
+      "month": "2024-06",
+      "repo_rate": 6.1,
+      "inflation_rate": 4.47,
+      "unemployment_rate": 7.47,
+      "gdp_growth": 5.82
+    },
+    {
+      "month": "2024-07",
+      "repo_rate": 6.86,
+      "inflation_rate": 5.9,
+      "unemployment_rate": 8.04,
+      "gdp_growth": 6.15
+    },
+    {
+      "month": "2024-08",
+      "repo_rate": 6.32,
+      "inflation_rate": 4.03,
+      "unemployment_rate": 7.82,
+      "gdp_growth": 5.72
+    },
+    {
+      "month": "2024-09",
+      "repo_rate": 6.39,
+      "inflation_rate": 4.8,
+      "unemployment_rate": 6.61,
+      "gdp_growth": 6.28
+    },
+    {
+      "month": "2024-10",
+      "repo_rate": 6.66,
+      "inflation_rate": 4.46,
+      "unemployment_rate": 8.16,
+      "gdp_growth": 5.97
+    },
+    {
+      "month": "2024-11",
+      "repo_rate": 6.37,
+      "inflation_rate": 4.13,
+      "unemployment_rate": 7.96,
+      "gdp_growth": 6.29
+    },
+    {
+      "month": "2024-12",
+      "repo_rate": 6.05,
+      "inflation_rate": 4.64,
+      "unemployment_rate": 7.64,
+      "gdp_growth": 6.3
+    }
+  ]
+}
