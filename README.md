@@ -695,14 +695,37 @@ By completing this project, you'll:
 
 - [ ] **GitHub Repository**
   ```
-  credit-risk-preparer/
-  ├── credit_risk_preprocessing.ipynb
-  ├── final_cleaned_credit_risk_dataset.csv
-  ├── summary_report.pdf
-  ├── data_profile_report.html (optional)
-  ├── README.md
-  └── requirements.txt
-  ```
+Credit-Risk-Preprocessing-Project/
+│
+├── 📂 charts/
+│   └── 📊 EDA & Analysis Charts
+│
+├── 📓 Credit_Risk_Preprocessing_Project.ipynb
+│   └── Complete Data Preprocessing & Analysis Notebook
+│
+├── 📄 README.md
+│   └── Project Documentation
+│
+├── 📕 Theory_Concepts_Reference.pdf
+│   └── Data Preprocessing & Credit Risk Theory
+│
+├── 📊 credit_risk_main.csv
+│   └── Main Credit Risk Dataset
+│
+├── 🧾 customer_metadata.json
+│   └── Customer Information / Metadata
+│
+├── 🌐 economic_indicators_api.json
+│   └── Economic Indicators API Data
+│
+├── 📊 final_processed_dataset.csv
+│   └── Final Cleaned & Processed Dataset
+│
+├── 🗄️ loan_repayment_sql.csv
+│   └── Loan Repayment / SQL Data
+│
+└── 🎥 video/
+    └── Project Demonstration Video
 
 ---
 
